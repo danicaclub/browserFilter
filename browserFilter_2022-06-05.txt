@@ -1,0 +1,45 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+!fb popup notification block  ! message btn		
+www.facebook.com##.ue3kfks5.pw54ja7n.uo3d90p7.l82x9zwi.bi1v6m2q.rq0escxv.j83agx80.cbu4d94t.jq4qci2q.jbcpqwzg
+www.facebook.com##.eb3gnj61.dwo3fsh8.akv41dx8.ovq5dppa.spb7xbtv.bkmhp75w.emlxlaya.s45kfl79.m7zwrmfr.tmrshh9y.taijpn5t.bp9cbjyn.pq6dq46d.l9j0dhe7.lzcic4wl.p8dawk7l.abiwlrkh.btwxx1t3.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.mg4g778l.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.oajrlxb2
+youtube.com###chat
+ragalahari.com###st-2
+ragalahari.com###st-el-1
+www.socialnews.xyz###mybotstagecrn
+www.socialnews.xyz##.a2a_vertical_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
+
+!side bar ads  
+www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+youtube.com##.ytp-ce-element
+
+! 6/1/2022
+www.3movs.com##.header
+xhamster3.com##header
+xhamster3.com##.wio-xspa.wio-xspb
+xhamster3.com##.vertical.wio-xcams-widget > .item-container > .beta-preloader
+www.xvideos.com##div#activity-event-.premium-preview.activity-event:nth-of-type(2)
+
+! 6/1/2022 https://www.xvideos.com
+www.xvideos.com###video-ad
+
+! 2022-05-30 https://lontv.cc
+lontv.cc###header
+ragalahari.com###caricature-continer
+www.ragalahari.com###form1 > .card
+ragalahari.com##.card
+ragalahari.com##.trc_rbox_div.trc_rbox_border_elm
+ragalahari.com##.mybotcard-container
+ragalahari.com##.small-11.medium-3.column.btm-latestnews
+ragalahari.com###raga-header
+ragalahari.com##.show-for-large
+www.facebook.com##div.cwj9ozl2:nth-of-type(4)
+
+
+
+
